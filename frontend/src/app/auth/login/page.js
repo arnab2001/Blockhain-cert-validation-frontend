@@ -1,0 +1,18 @@
+
+import { LoginForm } from "./LoginForm";
+
+
+
+export default function LoginPage() {
+    return (
+
+
+             <div className=" flex items-left justify-around p-20 ">
+                    <LoginForm />
+               </div>
+      
+  
+    );
+}
+
+
